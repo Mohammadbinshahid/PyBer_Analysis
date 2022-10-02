@@ -7,7 +7,7 @@ There is a large difference between the number of drivers, number of rides, and 
 
 ## Summary by City Type Data Frame
 
-![Pyber_fare_summary}](https://user-images.githubusercontent.com/104873181/193438398-a7f375bd-752e-4833-8f5a-330457968704.png)
+![Pyber_summary_df](https://user-images.githubusercontent.com/104873181/193438674-6a9cef5c-76e9-4412-8099-dafb6ff778fe.png)
 
 ## Total Rides
 There is quite a difference in the number of rides in each area. The larger 'Urban' cities have more than 2 and a half times the number of total rides of 'Suburban' cites and 13 times the number of total rides of the smaller 'Rural' areas
