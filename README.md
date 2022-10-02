@@ -29,6 +29,6 @@ Graph of Total Fares by City Type All three city types have dips and raises in t
 
 ![Pyber_fare_summary}](https://user-images.githubusercontent.com/104873181/193438388-8e3c9feb-b6ca-46c5-b5be-4343e182ecf7.png)
 
-##Summary
+## Summary
 
 The smaller Rural sites with the fewest drivers and rides collect a the largest fare per ride (on average) and largest fare per driver (on average). While the larger, Urban cities with 13 times the number of total rides and more than 30 times the drivers of the Rural areas understandably earn less than a third of the average fare per Driver. This may indicate an overabundance of drivers in certain areas of the 'Urban' cities. Potentially incentivizing drivers to be available at peak times in various neighborhoods across the larger 'Urban' cities may help to spread this out somewhat. Alternatively, It seems that there may be some need to hire more drivers in 'Rural' cities while working with these 'Rural' cities to understand the distances traveled and needs of the customers.
