@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview of the Analysis
-We were asked to create a summary DataFrame of the ride-sharing data by city type. This included creating a multiple-line graph that shows the total weekly fares for each city type. This written report will summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+The goal of this project is to perform exploratory analysis of Pyber ride sharing data in order to gain an understanding of ridership and fare metrics by the types of cities in which Pyber operates. 
 
 ## Results
 There is a large difference between the number of drivers, number of rides, and average fare for the three types.
@@ -10,19 +10,16 @@ There is a large difference between the number of drivers, number of rides, and 
 ![Pyber_summary_df](https://user-images.githubusercontent.com/104873181/193438674-6a9cef5c-76e9-4412-8099-dafb6ff778fe.png)
 
 ## Total Rides
-There is quite a difference in the number of rides in each area. The larger 'Urban' cities have more than 2 and a half times the number of total rides of 'Suburban' cites and 13 times the number of total rides of the smaller 'Rural' areas
+Urban cities have the highest ridership demand while rural cities have the least.
 
 ### Total Drivers
-Understandably given the number of Rides available, the total drivers for these city types are even more varying with Urban cities having more than 30 times the number of drivers of the Rural areas
+Urban cities have 4x+ more drivers than suburban cities.
 
 ### Total Fares
 Total Fares in 'Urban' cities with more drivers and more rides are twice the total in 'Suburban' cities and more than 9 times the total in 'Rural' cities.
 
-### Average Fare per Ride
-Given the smaller number of rides and the fewer drivers, 'Rural' areas actually earn more per ride (on average) compared to the average fare per rides of both 'Suburban' and 'Urban' cities
-
-### Average Fare per Driver
-Given the smaller number of rides and the fewer drivers, this somewhat higher average fare per ride translates to a significant difference in Average Fare per Driver, with 'Rural' drivers earning more than three times as much as drivers in 'Urban' cities
+### Average Fare per Ride & Driver
+Rural cities have the highest average fare per ride and driver.
 
 ### Total fare by city type
 Graph of Total Fares by City Type All three city types have dips and raises in the fare earned by week, and not always at the same time, showing that ridership is unique to each city type
